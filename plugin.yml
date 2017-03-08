@@ -1,0 +1,5 @@
+name: APIActer
+version: 1.0.0
+main: RTG\APIActer\Loader
+api: 2.1.0
+author: IG
